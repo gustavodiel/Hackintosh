@@ -7,3 +7,15 @@
 [submodule "OpenCore"]
 	path = OpenCore
 	url = git@github.com:acidanthera/OpenCorePkg.git
+[submodule "Kexts/AppleALC"]
+	path = Kexts/AppleALC
+	url = git@github.com:acidanthera/AppleALC.git
+[submodule "Kexts/WhateverGreen"]
+	path = Kexts/WhateverGreen
+	url = git@github.com:acidanthera/WhateverGreen.git
+[submodule "Kexts/Lilu"]
+	path = Kexts/Lilu
+	url = git@github.com:acidanthera/Lilu.git
+[submodule "Kexts/VirtualSMC"]
+	path = Kexts/VirtualSMC
+	url = git@github.com:acidanthera/VirtualSMC.git
